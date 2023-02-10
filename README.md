@@ -5,13 +5,12 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 
 <!-- 比较好的开源项目卡片 -->
-<!-- <div align="center">
+<div align="center">
 <a href="https://github.com/ReadSmall/COVID-Bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReadSmall&repo=COVID-Bot&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/ReadSmall/music-bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReadSmall&repo=music-bot&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
- -->
 💪 正在学习: 
 
 &emsp;&emsp;
